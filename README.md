@@ -1,2 +1,2 @@
-# alaka
-This package retrieves data from URl
+# getData
+This package retrieves data from URL
